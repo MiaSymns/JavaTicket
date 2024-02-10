@@ -8,7 +8,6 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author mlanza
  */
 public class UsuariosFormulario extends javax.swing.JFrame {
 
