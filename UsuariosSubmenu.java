@@ -8,7 +8,6 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author mlanza
  */
 public class UsuariosSubmenu extends javax.swing.JFrame {
 
