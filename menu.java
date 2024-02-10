@@ -10,7 +10,6 @@ import javax.swing.SwingUtilities;
 
 /**
  *
- * @author mlanza
  */
 public class menu extends javax.swing.JFrame {
 
