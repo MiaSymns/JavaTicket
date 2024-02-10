@@ -11,7 +11,6 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author marco
  */
 public class UsuariosEditarSelect extends javax.swing.JFrame {
 
